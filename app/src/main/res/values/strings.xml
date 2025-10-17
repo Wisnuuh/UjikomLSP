@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Absensi SMK</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Riwayat</string>
+    <string name="title_profile">Profil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_nisn">NISN</string>
+    <string name="label_password">Password</string>
+    <string name="label_confirm_password">Confirm Password</string>
+    <string name="already_have_account_login"><u>Already have account? Login</u></string>
+    <string name="dont_have_account_register"><u>Don\'t have account? Register</u></string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
