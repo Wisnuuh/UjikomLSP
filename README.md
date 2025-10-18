@@ -1,5 +1,5 @@
 # Absensi Geolokasi | Junior Mobile Developer | Lembaga Sertifikasi Profesi
-Aplikasi absensi siswa dengan geolokasi
+Aplikasi absensi siswa dengan geolokasi.
 
 ## Features:
 ### 📡 Network
